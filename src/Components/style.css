@@ -1,0 +1,17 @@
+.connector {
+  padding: 5px;
+  cursor: pointer;
+}
+
+
+.flagInactive {
+  border: 5px solid yellow;
+}
+
+.flagDisabled {
+  border: 5px solid red;
+}
+
+.flagActive {
+  border: 5px solid green;
+}
